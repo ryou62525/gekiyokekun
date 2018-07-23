@@ -1,4 +1,4 @@
-# 激よけくん gekiyokekun
+# げきよけくん gekiyokekun
 
 iPhone・iPad　対応  
 2017年6月に制作したゲームです。
